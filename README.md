@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RustyMatt
 - 👀 I’m interested in learn new programming languages and pratice more my skills
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on front-end projects
+- 🌱 I’m currently learning GDScript
+- 💞️ I’m looking to collaborate on gamedev projects
 - 📫 How to reach me => https://github.com/RustyMatt
 
 <!---
